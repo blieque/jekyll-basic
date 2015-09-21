@@ -1,6 +1,6 @@
 # Jekyll Basic (Structure)
 
-After having created a number of [Jekyll](https://jekyllrb.org/)-powered websites in the last few weeks, I noticed I was performing a lot of the same steps over and over. I decided to create a very simple file structure that I could copy to my working directory to get a new Jekyll instance going a bit hastier.
+After having created a number of [Jekyll](https://jekyllrb.com/)-powered websites in the last few weeks, I noticed I was performing a lot of the same steps over and over. I decided to create a very simple file structure that I could copy to my working directory to get a new Jekyll instance going a bit hastier.
 
 ## Usage
 
