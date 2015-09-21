@@ -1,0 +1,17 @@
+# site settings
+title: Site Title
+#email:
+description: A longer site description that should be used by search engines.
+address: "https://omni.dev"
+baseurl: "/uk.stening"
+
+# build settings
+markdown: kramdown
+sass:
+    style: compressed
+
+compress_html:
+    clippings: all
+
+# non-standard options include
+# - email
